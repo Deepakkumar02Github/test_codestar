@@ -96,3 +96,4 @@ Best Practices: https://docs.aws.amazon.com/codestar/latest/userguide/best-pract
 test code interface
 
 test building pipeline aws cloud
+ test codepipeline 
